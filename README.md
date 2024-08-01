@@ -1,5 +1,6 @@
 Chocolate Company Data Visualization
-Overview:
+
+
 This project involves creating a comprehensive data visualization for a chocolate company using Power BI. The goal is to provide insights into various aspects of the company's operations, sales, and market trends.
 
 Features:
