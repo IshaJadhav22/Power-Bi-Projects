@@ -9,4 +9,4 @@ Market Trends: Graphs and charts depicting market trends, customer preferences, 
 Customer Insights: Analysis of customer demographics, purchase patterns, and feedback.
 
 Tools Used:
-Power BI: For data visualization and dashboard creation.
+Power BI: For data visualization.
